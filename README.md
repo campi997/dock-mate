@@ -1,6 +1,6 @@
 # 🐳 DockMate
 
-**Your Docker container assistant for the Linux terminal.**
+**Your Docker container assistant for the Linux.**
 
 DockMate makes it simple to discover, install, and manage Docker containers.
 
