@@ -2,7 +2,7 @@
 
 **Your Docker container assistant for the Linux terminal.**
 
-DockMate makes it dead-simple to discover, install, and manage Docker containers — no Docker experience required, no API keys needed.
+DockMate makes it simple to discover, install, and manage Docker containers.
 
 ---
 
