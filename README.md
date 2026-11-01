@@ -2,7 +2,7 @@
 
 **Your Docker container assistant for the Linux.**
 
-DockMate makes it simple to discover, install, and manage Docker containers.
+DockMate makes it simple to install, and manage Docker containers.
 
 ---
 
@@ -130,9 +130,8 @@ dockmate/
 
 ## Requirements
 
-- **Linux** (Debian, Ubuntu, Fedora, Arch, CachyOS, Alpine, Void, and derivatives)
+- **Linux**
 - **Python 3.6+** (pre-installed on most distros)
-- **Internet connection** (to download Docker images and fetch compose files from GitHub)
 
 ## License
 
