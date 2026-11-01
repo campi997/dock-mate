@@ -8,10 +8,10 @@ DockMate makes it simple to discover, install, and manage Docker containers.
 
 ## Features
 
-- **Auto-detects Docker** — installs it for you if it's missing (supports Debian, Arch, Fedora, Alpine, Void, and more)
+- **Auto-detects Docker** — installs it for you if it's missing
 - **Docker Hub search** — search and browse images directly from the terminal
-- **Deterministic compose fetching** — automatically finds `docker-compose.yml` files from GitHub repos (no LLM, no API keys)
-- **One-command installs** — just type `install jellyfin` and you're done
+- **Deterministic compose fetching** — automatically finds `docker-compose.yml` files from GitHub repos
+- **One-command installs** — just type `install container name` and you're done
 - **Full lifecycle management** — install, start, stop, update, remove, and view logs
 - **Security warnings** — warns about untrusted images and Docker socket mounts
 - **Zero dependencies** — pure Python 3 standard library, no pip installs needed
